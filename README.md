@@ -2,7 +2,7 @@
 
 The time dependent Schrodinger equation for the wavefunction $\psi$ of a particle of mass $m$ moving in a potential energy $V(x,t)$ is:
 
-$$ i\hbar\frac{\partial}{\partial t}\psi = \frac{-\hbar^2}{2m}\frac{\partial^2}{\partial x^2} \psi(x,t) + V(x,t)\psi(x,t)$$
+$ i\hbar\frac{\partial}{\partial t}\psi = \frac{-\hbar^2}{2m}\frac{\partial^2}{\partial x^2} \psi(x,t) + V(x,t)\psi(x,t)$
 
 In this program calculated the time dependent propogation of an electron wavepacket through a potential barrier. I performed the calculation in a region of $L=500$ Angstroms. I started with an initial (complex valued) Gaussian wave function (for an electron) of:
 
