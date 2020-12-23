@@ -1,2 +1,2 @@
-# Time Dependent Schrödinger
-Solving the time dependent Schrödinger equation using the Crank-Nicolson method
+# Solving the Time Dependent Schrödinger Equation
+Solving the Schrödinger equation for a time-dependent electron wavepacket traveling through a potential barrier using the Crank-Nicolson method.
